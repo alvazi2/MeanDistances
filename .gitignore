@@ -1,0 +1,11 @@
+# Ignore csv files
+*.csv
+
+# Ignore graphics
+*.png
+
+# Ignore Jupyter specific data
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.DS_Store
+
